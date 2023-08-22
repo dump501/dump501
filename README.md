@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://komarev.com/ghpvc/?username=dump501)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dump501&show_icons=true&theme=dark)](https://git.io/streak-stats)
 ![Oregand's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=dump501&show_icons=true&theme=dark)
