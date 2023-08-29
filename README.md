@@ -5,7 +5,12 @@
 - 🌱 I’m currently learning Aws
 - 👯 I’m looking to collaborate on spring boot and javascript projects
 - 💬 Ask me about javascript
-- 📫 How to reach me: [email](tsafack07albin@gmail.com) / +237698406818
+- 📫 How to reach me: 📧 tsafack07albin@gmail.com / 📞(+237) 698406818
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" /></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=dump501)
 
